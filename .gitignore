@@ -2,8 +2,14 @@
 /downloads/
 /tmp/
 /parsed/
-/human_bed/
-/mm39_bed/
+
+# Keep BED outputs, ignore larger detail tables
+/human_bed/*
+!/human_bed/
+!/human_bed/*.bed
+/mm39_bed/*
+!/mm39_bed/
+!/mm39_bed/*.bed
 
 # Large generated reports
 /reports/unmapped_human_features.tsv
