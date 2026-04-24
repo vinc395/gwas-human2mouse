@@ -1,0 +1,22 @@
+# Large raw downloads and generated intermediates
+/downloads/
+/tmp/
+/parsed/
+/human_bed/
+/mm39_bed/
+
+# Large generated reports
+/reports/unmapped_human_features.tsv
+
+# Optional local logs
+/logs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo

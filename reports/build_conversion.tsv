@@ -1,0 +1,131 @@
+study_accession	category	trait_name	input_build	target_build	coordinate_system	conversion_method	chain_used	status	input_feature_count	output_feature_count	unmapped_feature_count	notes
+GCST90267331	comparator	BMI	unknown	GRCh38	1-based	not_run		unavailable	0	0	0	No downloadable association table found
+GCST90267332	comparator	BMI	unknown	GRCh38	1-based	not_run		unavailable	0	0	0	No downloadable association table found
+GCST90268031	comparator	BMI	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	lifted	24667	24662	5	skipped_missing_coordinates=0;lifted_features=24662;unmapped_after_liftover=5
+GCST90268032	comparator	BMI	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	lifted	19257	19253	4	skipped_missing_coordinates=0;lifted_features=19253;unmapped_after_liftover=4
+GCST90444285	comparator	Body Mass Index	GRCh38	GRCh38	1-based	none_needed		retained	331	331	0	skipped_missing_coordinates=0
+GCST90444306	comparator	Body Mass Index	GRCh38	GRCh38	1-based	none_needed		retained	127	127	0	skipped_missing_coordinates=0
+GCST90444328	comparator	Body Mass Index	GRCh38	GRCh38	1-based	none_needed		retained	78	78	0	skipped_missing_coordinates=0
+GCST90826151	comparator	Body mass index (BMI)	GRCh38	GRCh38	0-based	none_needed		retained	884	884	0	skipped_missing_coordinates=0
+GCST90826182	comparator	Body mass index (BMI)	GRCh38	GRCh38	0-based	none_needed		retained	913	913	0	skipped_missing_coordinates=0
+GCST90727459	comparator	Body mass index - max	GRCh38	GRCh38	1-based	none_needed		retained	1021	1021	0	skipped_missing_coordinates=0
+GCST90727460	comparator	Body mass index - median	GRCh38	GRCh38	1-based	none_needed		retained	1070	1070	0	skipped_missing_coordinates=0
+GCST90727461	comparator	Body mass index - min	GRCh38	GRCh38	1-based	none_needed		retained	896	896	0	skipped_missing_coordinates=0
+GCST90728446	comparator	Body mass index >= 30 without an associated BMI value (Quality and Outcomes Framework codes)	GRCh38	GRCh38	1-based	none_needed		retained	33	33	0	skipped_missing_coordinates=0
+GCST90104677	comparator	Childhood body mass index	GRCh38	GRCh38	1-based	none_needed		retained	161	161	0	skipped_missing_coordinates=0
+GCST90104684	comparator	Childhood diastolic blood pressure	GRCh38	GRCh38	1-based	none_needed		retained	15	15	0	skipped_missing_coordinates=0
+GCST90104683	comparator	Childhood systolic blood pressure	GRCh38	GRCh38	1-based	none_needed		retained	64	64	0	skipped_missing_coordinates=0
+GCST90728432	comparator	Coronary Artery Disease (PRIMED consortium definition)	GRCh38	GRCh38	1-based	none_needed		retained	30	30	0	skipped_missing_coordinates=0
+GCST90727951	comparator	Coronary Artery Disease - broad	GRCh38	GRCh38	1-based	none_needed		retained	48	48	0	skipped_missing_coordinates=0
+GCST90727950	comparator	Coronary Artery Disease - narrow	GRCh38	GRCh38	1-based	none_needed		retained	28	28	0	skipped_missing_coordinates=0
+GCST90827313	comparator	Diagnoses - ICD10; E66 Obesity	GRCh38	GRCh38	0-based	none_needed		retained	181	181	0	skipped_missing_coordinates=0
+GCST90827311	comparator	Diagnoses - ICD10; E66.8 Other obesity	GRCh38	GRCh38	0-based	none_needed		retained	114	114	0	skipped_missing_coordinates=0
+GCST90827312	comparator	Diagnoses - ICD10; E66.9 Obesity, unspecified	GRCh38	GRCh38	0-based	none_needed		retained	81	81	0	skipped_missing_coordinates=0
+GCST90827341	comparator	Diagnoses - ICD10; I10 Essential (primary) hypertension	GRCh38	GRCh38	0-based	none_needed		retained	16	16	0	skipped_missing_coordinates=0
+GCST90827412	comparator	Diagnoses - ICD10; M10 Gout	GRCh38	GRCh38	0-based	none_needed		retained	22	22	0	skipped_missing_coordinates=0
+GCST90827411	comparator	Diagnoses - ICD10; M10.9 Gout, unspecified	GRCh38	GRCh38	0-based	none_needed		retained	11	11	0	skipped_missing_coordinates=0
+GCST90444287	comparator	Diastolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	14	14	0	skipped_missing_coordinates=0
+GCST90444308	comparator	Diastolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	5	5	0	skipped_missing_coordinates=0
+GCST90444330	comparator	Diastolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	3	3	0	skipped_missing_coordinates=0
+GCST90727486	comparator	Diastolic blood pressure - max	GRCh38	GRCh38	1-based	none_needed		retained	291	291	0	skipped_missing_coordinates=0
+GCST90727487	comparator	Diastolic blood pressure - median	GRCh38	GRCh38	1-based	none_needed		retained	459	459	0	skipped_missing_coordinates=0
+GCST90727488	comparator	Diastolic blood pressure - min	GRCh38	GRCh38	1-based	none_needed		retained	45	45	0	skipped_missing_coordinates=0
+GCST90827250	comparator	Diastolic blood pressure, automated reading	GRCh38	GRCh38	0-based	none_needed		retained	5	5	0	skipped_missing_coordinates=0
+GCST90728040	comparator	Essential (ICD10 primary) hypertension (ICD10 I10)	GRCh38	GRCh38	1-based	none_needed		retained	46	46	0	skipped_missing_coordinates=0
+GCST90727966	comparator	Essential Hypertension	GRCh38	GRCh38	1-based	none_needed		retained	94	94	0	skipped_missing_coordinates=0
+GCST90826018	comparator	Ever had gout	GRCh38	GRCh38	0-based	none_needed		retained	18	18	0	skipped_missing_coordinates=0
+GCST90444290	comparator	Glycated Hemoglobin	GRCh38	GRCh38	1-based	none_needed		retained	333	333	0	skipped_missing_coordinates=0
+GCST90444312	comparator	Glycated Hemoglobin	GRCh38	GRCh38	1-based	none_needed		retained	109	109	0	skipped_missing_coordinates=0
+GCST90444333	comparator	Glycated Hemoglobin	GRCh38	GRCh38	1-based	none_needed		retained	108	108	0	skipped_missing_coordinates=0
+GCST90826001	comparator	Glycated haemoglobin (HbA1c)	GRCh38	GRCh38	0-based	none_needed		retained	11	11	0	skipped_missing_coordinates=0
+GCST90827198	comparator	Glycated haemoglobin (HbA1c)	GRCh38	GRCh38	0-based	none_needed		retained	321	321	0	skipped_missing_coordinates=0
+GCST90727958	comparator	Gout (GlobalBiobankMetaAnalysis codelist)	GRCh38	GRCh38	1-based	none_needed		retained	308	308	0	skipped_missing_coordinates=0
+GCST90728236	comparator	Gout (ICD10 M10)	GRCh38	GRCh38	1-based	none_needed		retained	65	65	0	skipped_missing_coordinates=0
+GCST90727981	comparator	Gout (MULTIPLY codelist)	GRCh38	GRCh38	1-based	none_needed		retained	299	299	0	skipped_missing_coordinates=0
+GCST90727540	comparator	Haemoglobin A1c (just mmol/L) - max	GRCh38	GRCh38	1-based	none_needed		retained	1160	1160	0	skipped_missing_coordinates=0
+GCST90727541	comparator	Haemoglobin A1c (just mmol/L) - median	GRCh38	GRCh38	1-based	none_needed		retained	1567	1567	0	skipped_missing_coordinates=0
+GCST90727542	comparator	Haemoglobin A1c (just mmol/L) - min	GRCh38	GRCh38	1-based	none_needed		retained	1449	1449	0	skipped_missing_coordinates=0
+GCST90728034	comparator	Hypertension (MULTIPLY codelist)	GRCh38	GRCh38	1-based	none_needed		retained	88	88	0	skipped_missing_coordinates=0
+GCST90728030	comparator	Hypertension all types (MGH definition)	GRCh38	GRCh38	1-based	none_needed		retained	117	117	0	skipped_missing_coordinates=0
+GCST90728458	comparator	Hypertension diagnosis (Quality and Outcomes Framework codes)	GRCh38	GRCh38	1-based	none_needed		retained	120	120	0	skipped_missing_coordinates=0
+GCST90826070	comparator	Non-cancer illness code, self-reported; gout	GRCh38	GRCh38	0-based	none_needed		retained	20	20	0	skipped_missing_coordinates=0
+GCST90826053	comparator	Non-cancer illness code, self-reported; hypertension	GRCh38	GRCh38	0-based	none_needed		retained	8	8	0	skipped_missing_coordinates=0
+GCST90727872	comparator	Obesity (ICD10 E66)	GRCh38	GRCh38	1-based	none_needed		retained	234	234	0	skipped_missing_coordinates=0
+GCST90728401	comparator	Obesity (MULTIPLY codelist)	GRCh38	GRCh38	1-based	none_needed		retained	112	112	0	skipped_missing_coordinates=0
+GCST90444296	comparator	Systolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	10	10	0	skipped_missing_coordinates=0
+GCST90444318	comparator	Systolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	5	5	0	skipped_missing_coordinates=0
+GCST90444339	comparator	Systolic Blood Pressure	GRCh38	GRCh38	1-based	none_needed		retained	3	3	0	skipped_missing_coordinates=0
+GCST90727681	comparator	Systolic blood pressure - max	GRCh38	GRCh38	1-based	none_needed		retained	481	481	0	skipped_missing_coordinates=0
+GCST90727682	comparator	Systolic blood pressure - median	GRCh38	GRCh38	1-based	none_needed		retained	723	723	0	skipped_missing_coordinates=0
+GCST90727683	comparator	Systolic blood pressure - min	GRCh38	GRCh38	1-based	none_needed		retained	138	138	0	skipped_missing_coordinates=0
+GCST90827251	comparator	Systolic blood pressure, automated reading	GRCh38	GRCh38	0-based	none_needed		retained	26	26	0	skipped_missing_coordinates=0
+GCST90727955	comparator	Type 2 Diabetes (GenomicsPLC codelist)	GRCh38	GRCh38	1-based	none_needed		retained	803	803	0	skipped_missing_coordinates=0
+GCST90728496	comparator	Type 2 Diabetes (MULTIPLY codelist)	GRCh38	GRCh38	1-based	none_needed		retained	761	761	0	skipped_missing_coordinates=0
+GCST90727860	comparator	Type 2 diabetes mellitus (ICD10 E11)	GRCh38	GRCh38	1-based	none_needed		retained	321	321	0	skipped_missing_coordinates=0
+GCST90827215	comparator	Urate	GRCh38	GRCh38	0-based	none_needed		retained	164	164	0	skipped_missing_coordinates=0
+GCST90726485	comparator	Urate (umol/L)	GRCh38	GRCh38	1-based	none_needed		retained	640	640	0	skipped_missing_coordinates=0
+GCST90726486	comparator	Urate (umol/L)	GRCh38	GRCh38	1-based	none_needed		retained	31	31	0	skipped_missing_coordinates=0
+GCST90727705	comparator	Urate - max	GRCh38	GRCh38	1-based	none_needed		retained	1061	1061	0	skipped_missing_coordinates=0
+GCST90727706	comparator	Urate - median	GRCh38	GRCh38	1-based	none_needed		retained	1139	1139	0	skipped_missing_coordinates=0
+GCST90727707	comparator	Urate - min	GRCh38	GRCh38	1-based	none_needed		retained	909	909	0	skipped_missing_coordinates=0
+GCST90310252	comparator	central systolic blood pressure (cSBP)	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	lifted	1	1	0	skipped_missing_coordinates=0;lifted_features=1;unmapped_after_liftover=0
+GCST90310249	comparator	diastolicblood pressure(DBP)	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	lifted	2	2	0	skipped_missing_coordinates=0;lifted_features=2;unmapped_after_liftover=0
+GCST90301210	comparator	hbA1c	GRCh38	GRCh38	1-based	none_needed		retained	55027	55027	0	skipped_missing_coordinates=0
+GCST90301211	comparator	hbA1c	GRCh38	GRCh38	1-based	none_needed		retained	57914	57914	0	skipped_missing_coordinates=0
+GCST90370243	comparator	in-silico score for coronary artery disease	GRCh38	GRCh38	1-based	none_needed		retained	15	15	0	skipped_missing_coordinates=0
+GCST90370244	comparator	in-silico score for coronary artery disease	GRCh38	GRCh38	1-based	none_needed		retained	0	0	0	skipped_missing_coordinates=0
+GCST90310251	comparator	pulse pressure (PP)	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	unmapped	0	0	0	skipped_missing_coordinates=0;lifted_features=0;unmapped_after_liftover=0
+GCST90164255	comparator	urate	GRCh38	GRCh38	1-based	none_needed		retained	108	108	0	skipped_missing_coordinates=0
+GCST90164860	comparator	urate	unknown	GRCh38	1-based	not_run		unavailable	0	0	0	No downloadable association table found
+GCST90301232	comparator	urate	GRCh38	GRCh38	1-based	none_needed		retained	38096	38096	0	skipped_missing_coordinates=0
+GCST90301233	comparator	urate	GRCh38	GRCh38	1-based	none_needed		retained	40288	40288	0	skipped_missing_coordinates=0
+GCST90566356	comparator	z-score of body mass index [kg/m^2]	GRCh38	GRCh38	1-based	none_needed		retained	4	4	0	skipped_missing_coordinates=0
+GCST90566357	comparator	z-score of diastolic blood pressure	GRCh38	GRCh38	1-based	none_needed		retained	1	1	0	skipped_missing_coordinates=0
+GCST90566367	comparator	z-score of systolic blood pressure	GRCh38	GRCh38	1-based	none_needed		retained	3	3	0	skipped_missing_coordinates=0
+GCST90728289	kidney	Acute renal failure (ICD10 N17)	GRCh38	GRCh38	1-based	none_needed		retained	28	28	0	skipped_missing_coordinates=0
+GCST90728281	kidney	Chronic Kidney Disease (MGH definition)	GRCh38	GRCh38	1-based	none_needed		retained	22	22	0	skipped_missing_coordinates=0
+GCST90727806	kidney	Chronic Kidney Disease (MULTIPLY codelist)	GRCh38	GRCh38	1-based	none_needed		retained	22	22	0	skipped_missing_coordinates=0
+GCST90728449	kidney	Chronic kidney disease (CKD) stage 1-2 (Quality and Outcomes Framework codes)	GRCh38	GRCh38	1-based	none_needed		retained	38	38	0	skipped_missing_coordinates=0
+GCST90728450	kidney	Chronic kidney disease (CKD) stage 3-5 (Quality and Outcomes Framework codes)	GRCh38	GRCh38	1-based	none_needed		retained	15	15	0	skipped_missing_coordinates=0
+GCST90728290	kidney	Chronic kidney disease (ICD10 N18)	GRCh38	GRCh38	1-based	none_needed		retained	23	23	0	skipped_missing_coordinates=0
+GCST90447114	kidney	Creatinine	GRCh37	GRCh38	1-based	liftOver_hg19ToHg38	hg19ToHg38.over.chain.gz	lifted	13923	13899	24	skipped_missing_coordinates=0;lifted_features=13899;unmapped_after_liftover=24
+GCST90449375	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	17687	17687	0	skipped_missing_coordinates=0
+GCST90449624	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	79045	79045	0	skipped_missing_coordinates=0
+GCST90449873	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	20	20	0	skipped_missing_coordinates=0
+GCST90450122	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	25	25	0	skipped_missing_coordinates=0
+GCST90450371	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	156	156	0	skipped_missing_coordinates=0
+GCST90450620	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	15	15	0	skipped_missing_coordinates=0
+GCST90450869	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	45	45	0	skipped_missing_coordinates=0
+GCST90451118	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	112294	112294	0	skipped_missing_coordinates=0
+GCST90451367	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	112366	112366	0	skipped_missing_coordinates=0
+GCST90709314	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	178	178	0	skipped_missing_coordinates=0
+GCST90709562	kidney	Creatinine	GRCh38	GRCh38	1-based	none_needed		retained	85357	85357	0	skipped_missing_coordinates=0
+GCST90827193	kidney	Creatinine	GRCh38	GRCh38	0-based	none_needed		retained	651	651	0	skipped_missing_coordinates=0
+GCST90726449	kidney	Creatinine (umol/L)	GRCh38	GRCh38	1-based	none_needed		retained	8	8	0	skipped_missing_coordinates=0
+GCST90726450	kidney	Creatinine (umol/L)	GRCh38	GRCh38	1-based	none_needed		retained	228	228	0	skipped_missing_coordinates=0
+GCST90727480	kidney	Creatinine - max	GRCh38	GRCh38	1-based	none_needed		retained	837	837	0	skipped_missing_coordinates=0
+GCST90727481	kidney	Creatinine - median	GRCh38	GRCh38	1-based	none_needed		retained	1368	1368	0	skipped_missing_coordinates=0
+GCST90727482	kidney	Creatinine - min	GRCh38	GRCh38	1-based	none_needed		retained	1190	1190	0	skipped_missing_coordinates=0
+GCST90827195	kidney	Cystatin C	GRCh38	GRCh38	0-based	none_needed		retained	1130	1130	0	skipped_missing_coordinates=0
+GCST90726453	kidney	Cystatin C (mg/L)	GRCh38	GRCh38	1-based	none_needed		retained	364	364	0	skipped_missing_coordinates=0
+GCST90726454	kidney	Cystatin C (mg/L)	GRCh38	GRCh38	1-based	none_needed		retained	3	3	0	skipped_missing_coordinates=0
+GCST90827426	kidney	Diagnoses - ICD10; N17 Acute renal failure	GRCh38	GRCh38	0-based	none_needed		retained	115	115	0	skipped_missing_coordinates=0
+GCST90827425	kidney	Diagnoses - ICD10; N17.9 Acute renal failure, unspecified	GRCh38	GRCh38	0-based	none_needed		retained	116	116	0	skipped_missing_coordinates=0
+GCST90727881	kidney	End stage renal disease	GRCh38	GRCh38	1-based	none_needed		retained	44	44	0	skipped_missing_coordinates=0
+GCST90727492	kidney	Estimated glomerular filtration rate - max	GRCh38	GRCh38	1-based	none_needed		retained	350	350	0	skipped_missing_coordinates=0
+GCST90727493	kidney	Estimated glomerular filtration rate - median	GRCh38	GRCh38	1-based	none_needed		retained	751	751	0	skipped_missing_coordinates=0
+GCST90727494	kidney	Estimated glomerular filtration rate - min	GRCh38	GRCh38	1-based	none_needed		retained	453	453	0	skipped_missing_coordinates=0
+GCST90728352	kidney	Gestational [pregnancy-induced] oedema and proteinuria without hypertension (ICD10 O12)	GRCh38	GRCh38	1-based	none_needed		retained	23	23	0	skipped_missing_coordinates=0
+GCST90728460	kidney	Microalbuminuria	GRCh38	GRCh38	1-based	none_needed		retained	29	29	0	skipped_missing_coordinates=0
+GCST90728465	kidney	Proteinuria	GRCh38	GRCh38	1-based	none_needed		retained	20	20	0	skipped_missing_coordinates=0
+GCST90728291	kidney	Unspecified kidney failure (ICD10 N19)	GRCh38	GRCh38	1-based	none_needed		retained	12	12	0	skipped_missing_coordinates=0
+GCST90727717	kidney	Urine Protein:Creatinine Ratio - max	GRCh38	GRCh38	1-based	none_needed		retained	13	13	0	skipped_missing_coordinates=0
+GCST90727718	kidney	Urine Protein:Creatinine Ratio - median	GRCh38	GRCh38	1-based	none_needed		retained	24	24	0	skipped_missing_coordinates=0
+GCST90727719	kidney	Urine Protein:Creatinine Ratio - min	GRCh38	GRCh38	1-based	none_needed		retained	31	31	0	skipped_missing_coordinates=0
+GCST90727711	kidney	Urine albumin creatinine ratio - max	GRCh38	GRCh38	1-based	none_needed		retained	69	69	0	skipped_missing_coordinates=0
+GCST90727712	kidney	Urine albumin creatinine ratio - median	GRCh38	GRCh38	1-based	none_needed		retained	119	119	0	skipped_missing_coordinates=0
+GCST90727713	kidney	Urine albumin creatinine ratio - min	GRCh38	GRCh38	1-based	none_needed		retained	99	99	0	skipped_missing_coordinates=0
+GCST90301198	kidney	creatinine	GRCh38	GRCh38	1-based	none_needed		retained	52065	52065	0	skipped_missing_coordinates=0
+GCST90301199	kidney	creatinine	GRCh38	GRCh38	1-based	none_needed		retained	46574	46574	0	skipped_missing_coordinates=0
+GCST90302187	kidney	membranous nephropathy	unknown	GRCh38	1-based	not_run		unavailable	0	0	0	No downloadable association table found
+GCST90316497	kidney	urine protein /creatin ratio	GRCh38	GRCh38	1-based	none_needed		retained	203	203	0	skipped_missing_coordinates=0
